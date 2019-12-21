@@ -1,0 +1,9 @@
+mkdir -p /spo/ChartShow_new/
+
+cp ChartShow_new /spo/ChartShow_new/
+cp start_dn.sh /spo/ChartShow_new/
+cp start_chart.sh /spo/ChartShow_new/
+cp start_oscill.sh /spo/ChartShow_new/
+
+
+
